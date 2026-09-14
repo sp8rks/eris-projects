@@ -1,0 +1,11 @@
+# video and large media (upload to ERIS portal, not git)
+*.mp4
+*.mov
+*.mkv
+# office files are fine to commit but keep temp files out
+~$*
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.env
