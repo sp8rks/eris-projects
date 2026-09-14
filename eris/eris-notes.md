@@ -1,7 +1,7 @@
-# ERIS quick reference (from DARPA-PS-25-05, read R3 text; confirm against the current revision on SAM.gov)
+# ERIS quick reference (from DARPA-PS-25-05, updated to the R10 text of 1 May 2026; official PDFs live in `eris/docs/`)
 
 ## What it is
-- Long-term open call run by DARPA with the Applied Research Institute (ARI) as marketplace manager. Current open period runs through 30 May 2027.
+- Long-term open call run by DARPA with the Applied Research Institute (ARI) as marketplace manager. Continuously open; enduring topic areas remain open until DARPA announces a close date.
 - You submit a 7-minute video pitch. "Awardable" pitches go on a marketplace viewable by any .mil account. Any DoD/DoW organization with Other Transaction authority can then negotiate and award directly off the video (no further competition).
 - Awardable status is not funding. No fixed award size; terms, price, IP, and duration are fully negotiable, and one video can yield multiple awards from multiple customers.
 
@@ -12,16 +12,16 @@
 - Monthly collection periods; cutoff is noon ET on the last day of the month. Results within ~30 days after the period ends.
 - Compliance check within ~1 business day; do not submit on the last day.
 - Non-awardable pitches can be resubmitted in any later month. Scorecards and assessor comments come back either way. ARI runs weekly office hours for feedback.
+- Ceiling: only the first three submissions per entity per monthly collection period are reviewed (special-topic submissions don't count against the ceiling). Chronic excessive submitters can be removed from ERIS.
 
-## Topic areas (check current list at darpaconnect.us/eris)
-- Detecting and tracking elusive objects across air, land, space
-- Overcoming sensing system limits (SWaP-C, performance)
-- Advanced antenna technologies
-- Resilience/efficiency of strategic systems (critical infrastructure, C2 networks)
-- Defense of humans and the bioeconomy (BTO)
-- Human health and performance optimization (BTO)
-- Periodic Special Topic Areas with fixed windows (e.g. DARPAVERSE, Oct-Dec 2025)
+## Topic areas (per R10, May 2026; check current list at darpaconnect.us/eris)
+- Space operations in LEO/MEO/GEO and Cislunar: disruptive system concepts, platform design, infrastructure innovation (space vehicle design, thermal management, next-gen thrusters, in-situ resource extraction, fuel generation, microgravity manufacturing/biomanufacturing, AI/ML for space systems, manufacturing at speed and scale)
+- Resilience/efficiency/effectiveness of strategic systems (critical infrastructure, military C2 networks and applications)
+- Defense against chemical and biological threats: humans and the bioeconomy (crops, livestock, biomanufacturing organisms) — surveillance, detection, diagnosis, countermeasures, attribution
+- Resilience of U.S. operations across the prepare/deploy/execute/return cycle: human health and performance optimization; AI/ML convergence with chemistry and biology (foundation models, data factories)
+- Periodic Special Topic Areas with fixed windows (e.g. DARPAVERSE, Oct-Dec 2025; see `eris/docs/special-topics/`)
 - Topic choice does not affect scoring; it is used for categorization and search.
+- NOTE: earlier revisions listed elusive-object detection, sensing limits, and advanced antennas; those topics no longer appear in R10.
 
 ## Submission package
 - Video: 7:00 max, 1280x720 HD, .mp4 under 1 GB, Rec709/sRGB. No restrictive markings except a copyright notice. Over 7:00 is the most common rejection.
@@ -43,6 +43,7 @@
 - DARPA publishes the names of awardable organizations unless you opt out in writing to ERIS@darpa.mil.
 
 ## Links
-- Solicitation on SAM.gov: https://sam.gov/opp/fabda3a3d150457d97068977672ec750/view
+- Local copies of the official PDFs (R10 announcement, Appendices A/B/C, special topics): `eris/docs/`
+- Solicitation on SAM.gov (active notice with current attachments): https://sam.gov/opp/41adb60c65954ac5be65b6d064ae9c74/view
 - Marketplace and submission portal: https://www.darpaconnect.us/eris
 - DARPA opportunity page: https://www.darpa.mil/work-with-us/opportunities/darpa-ps-25-50
