@@ -19,9 +19,14 @@ See `lit-review/defect-representations-deep-dive.md` for evidence, alternatives,
 
 ## Files
 
+- `video-outline.md`: timed beat-by-beat outline for the 7-minute video (four required
+  elements, evidence per beat, production notes, decisions needed) — precursor to `script.md`
 - `script.md`: timed 7-minute video script (four required elements)
 - `slides.md`: outline of the four Appendix B supplemental slides
 - `abstract.md`: 1,500-character abstract, title, keywords
 - `lit-review/defect-representations-deep-dive.md`: Asta-based deep dive on defect
   representations/featurization, thermal-transport gap analysis, Theorizer theses, topic-area
   options, and pitch concepts (raw Asta artifacts in `lit-review/asta-artifacts/`)
+- `lit-review/refinement-searches.md`: follow-up Asta searches (2026-09-15) that verified
+  the white-space claim, corrected the experimental-validation claim, and added
+  feasibility evidence for defect-programmed thermal conductivity
